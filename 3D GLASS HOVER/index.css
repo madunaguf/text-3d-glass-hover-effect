@@ -1,0 +1,32 @@
+ .hello {
+     letter-spacing: 6px;
+     text-shadow: green 0 0, cyan 0 0;
+     transition: 200ms;
+     font-size: 4rem;
+     margin: 50px 0;
+ }
+  .hello:hover {
+      text-shadow: green -6px 0, cyan 6px 0;
+  }
+  .hello2 {
+    letter-spacing: 6px;
+    text-shadow: rebeccapurple 0 0, red 0 0;
+    transition: 200ms;
+    font-size: 4rem;
+    margin: 50px 0;
+}
+ .hello2:hover {
+     text-shadow: rebeccapurple -6px 0, red 6px 0;
+ }
+
+
+ .hello_3 {
+    letter-spacing: 6px;
+    text-shadow: blue 0 0, tan 0 0;
+    transition: 200ms;
+    font-size: 4.5rem;
+    margin: 50px 0;
+}
+ .hello_3:hover {
+     text-shadow: blue -6px 0, tan 6px 0;
+ }
